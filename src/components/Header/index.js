@@ -7,7 +7,7 @@ export function Header(){
   <header className={styles.header}>
    	<div className={`container ${styles.cont}`}>
 				<Image src={Logo} alt="Logo Pokemón" />
-				<span>Case Study  ->  Code<strong>Boost</strong></span>
+				<span>Case Study  &gt;  Code<strong>Boost</strong></span>
 			</div>
   </header>
  )
